@@ -1,6 +1,11 @@
 div {
+<<<<<<< HEAD
   border: 20px solid; /* this is short hand for setting 
                             the border's width, its type */
+=======
+  border: 20px solid ; /* this is short hand for setting
+                            the border's width, its type, and color */
+>>>>>>> my-solution
   display: inline-block; /* a way of positioning elements */
   min-width: 20em; /* the two min styles make the shape */
   min-height: 25em; /* of the divs oblong*/
@@ -9,6 +14,7 @@ div {
   border-right-color: transparent; /* the right side */
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
+<<<<<<< HEAD
 
 #red { /* this selects any elements with the red id */
   color: #f00;
@@ -36,3 +42,5 @@ div {
 #violet{
   color: #d300c9;
 }
+=======
+>>>>>>> my-solution
